@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79477028929",
+    "project_id": "data-base-519b1",
+    "storage_bucket": "data-base-519b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79477028929:android:8786e30a6b063c5f18aec0",
+        "android_client_info": {
+          "package_name": "com.databasecoba.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79477028929-q58ajd5dnuvjuvgvme0532q8gllf97ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt3SxoO-qx32v_wJglZKbWvb_FZs3EP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79477028929-q58ajd5dnuvjuvgvme0532q8gllf97ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
