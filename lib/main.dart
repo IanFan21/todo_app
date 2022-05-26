@@ -44,7 +44,7 @@ class MyHomePage extends StatelessWidget {
         child: const Icon(Icons.add),
       ),
       appBar: AppBar(
-        title: const Text('Todo App'),
+        title: const Text('DataBase'),
         centerTitle: true,
       ),
       body: StreamBuilder(
